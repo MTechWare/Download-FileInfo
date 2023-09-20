@@ -1,0 +1,14 @@
+C:\Users\userv\source\repos\FileInfo\FileInfo\bin\Debug\net6.0\Download_FileInfo.exe
+C:\Users\userv\source\repos\FileInfo\FileInfo\bin\Debug\net6.0\Download_FileInfo.deps.json
+C:\Users\userv\source\repos\FileInfo\FileInfo\bin\Debug\net6.0\Download_FileInfo.runtimeconfig.json
+C:\Users\userv\source\repos\FileInfo\FileInfo\bin\Debug\net6.0\Download_FileInfo.dll
+C:\Users\userv\source\repos\FileInfo\FileInfo\bin\Debug\net6.0\Download_FileInfo.pdb
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.AssemblyInfoInputs.cache
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.AssemblyInfo.cs
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.dll
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\refint\Download_FileInfo.dll
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.pdb
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\Download_FileInfo.genruntimeconfig.cache
+C:\Users\userv\source\repos\FileInfo\FileInfo\obj\Debug\net6.0\ref\Download_FileInfo.dll
